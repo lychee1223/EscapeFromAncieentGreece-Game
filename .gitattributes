@@ -1,0 +1,2 @@
+## git-lfs ##
+*.resS filter=lfs diff=lfs merge=lfs -text
